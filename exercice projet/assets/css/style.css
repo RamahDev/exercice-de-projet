@@ -1,0 +1,90 @@
+body{
+    background-image:url("font.png");
+    
+    
+}
+header{
+    height:5vh;
+    padding: 1%;
+    color: white;
+    background-color: #C55394;
+}
+header div{
+    float: left;
+    margin: 1em 0;
+}
+header > div a{
+    color: white;
+    text-decoration: none;
+}
+header nav{
+    width: 26%;
+    float: right;
+}
+header ul > li{
+    padding: 0 2%;
+    display: inline;
+}
+.block{
+    background-color: white;
+    align-items: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 7%;
+    opacity: unset;
+    border-radius: 10px;
+    border:inset 3px;
+    border: outset 1px;
+    box-shadow: 12px 12px 12px
+#aaa;
+}
+.titles{
+    text-align: center;
+    color:#C55394;
+    font-style: italic;
+    background-image:url("arc.png");
+    background-repeat:no-repeat;
+    background-position: center ;
+    margin-top: 10%;
+   
+}
+#h {
+    font-family: 'Courgette',cursive;
+    color: #EB43A3;
+}
+.map{
+    width: 348px;
+    
+}
+#sous-titre2{
+    font-family: 'Courgette',cursive;
+    color:#EB43A3;
+}
+footer{
+    background-color: #C55394;height: 37px;
+    color: white;
+    text-align: right;
+}
+.float{
+    float:right;
+    padding-bottom: 20px;
+
+}
+.overcolor{
+   color: white;
+   background-color: #EB43A3;
+   border-color: #EB43A3;
+   border-radius: 2px;
+   border-bottom-left-radius: 2px;
+   border-top-left-radius: 2px;
+}
+#img1{
+   width: 165px;
+}
+.text{
+    align-items: center;
+   
+} 
+/*.sous-titre{
+    list-style-image: url('etoile\ rose.png');
+  }*/
